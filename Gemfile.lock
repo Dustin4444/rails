@@ -355,7 +355,7 @@ GEM
     mixlib-shellout (3.3.4)
       chef-utils
     mono_logger (1.1.2)
-    msgpack (1.7.5)
+    msgpack (1.8.2)
     multi_json (1.15.0)
     mustermann (3.0.4)
       ruby2_keywords (~> 0.0.1)
