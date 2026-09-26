@@ -520,7 +520,7 @@ GEM
       ffi (~> 1.12)
       logger
     ruby2_keywords (0.0.5)
-    rubyzip (2.4.1)
+    rubyzip (3.4.0)
     rufus-scheduler (3.9.2)
       fugit (~> 1.1, >= 1.11.1)
     sass-embedded (1.83.4)
@@ -537,11 +537,11 @@ GEM
     sdoc (2.6.5)
       rdoc (>= 5.0)
     securerandom (0.4.1)
-    selenium-webdriver (4.32.0)
+    selenium-webdriver (4.49.0)
       base64 (~> 0.2)
       logger (~> 1.4)
       rexml (~> 3.2, >= 3.2.5)
-      rubyzip (>= 1.2.2, < 3.0)
+      rubyzip (>= 1.2.2, < 4.0)
       websocket (~> 1.0)
     serverengine (2.0.7)
       sigdump (~> 0.2.2)
@@ -730,7 +730,7 @@ DEPENDENCIES
   rubocop-performance
   rubocop-rails
   rubocop-rails-omakase
-  rubyzip (~> 2.0)
+  rubyzip (~> 3.4)
   sdoc (~> 2.6.4)
   selenium-webdriver (>= 4.20.0)
   sneakers
